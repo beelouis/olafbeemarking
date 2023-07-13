@@ -1,0 +1,1 @@
+this folder contains resources to be used by the program in ../src
